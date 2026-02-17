@@ -1,5 +1,5 @@
 public class OOPSBannerApp{
     public static void main(String[] args) {
-        System.out.println("OOPS Banner");
+        System.out.println("OOPS ");
     }
 }
